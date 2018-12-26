@@ -448,10 +448,14 @@
 2404:6800:4008:c07::8b storage.cloud.google.com #www3.l.google.com
 2404:6800:4012:1::200e ssh.cloud.google.com
 2404:6800:4008:c07::66 developers.google.com #www3.l.google.com
+2607:f8b0:4000:80d::200a clouderrorreporting.clients6.google.com
+2607:f8b0:4007:804::200a cloudnotifications.clients6.google.com
 2404:6800:4008:c00::8b cloudssh.developers.google.com #www3.l.google.com
 2001:4860:4802:32::1b console.developers.google.com
 2404:6800:4008:c05::52 source.developers.google.com
 2404:6800:4012:1::200a cloudusersettings-pa.clients6.google.com
+2404:6800:4012:1::200a cloudconsole-pa.clients6.google.com
+2404:6800:4008:800::200a monitoring.clients6.google.com
 
 ## Directory 网页目录
 2404:6800:4008:c05::8a directory.google.com #www3.l.google.com
@@ -800,6 +804,9 @@
 #2404:6800:4008:c00::62 rtmp0.google.com
 #2404:6800:4008:c00::62 users.talk.google.com
 2404:6800:4008:c05::bc mtalk.google.com #mobile-gtalk.l.google.com
+
+## Tensorflow 主页
+2404:6800:4005:80d::200e www.tensorflow.org #www3-china.l.google.com
 
 ## Tools 工具
 2404:6800:4008:c07::66 tools.google.com #tools.l.google.com
@@ -23349,8 +23356,10 @@
 2a03:2880:f007:8:face:b00c:0:1 scontent-ort2-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-ort2-2.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-otp1-1.xx.fbcdn.net
+2a03:2880:f007:8:face:b00c:0:1 scontent-prg1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-scl1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sea1-1.xx.fbcdn.net
+2a03:2880:f007:8:face:b00c:0:1 scontent-sin2-2.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sin6-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sin6-2.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sit4-1.xx.fbcdn.net
@@ -23571,8 +23580,10 @@
 2a03:2880:f227:c4:face:b00c:0:43fe scontent-ort2-1.cdninstagram.com
 2a03:2880:f227:2c4:face:b00c:0:43fe scontent-ort2-2.cdninstagram.com
 2a03:2880:f223:c4:face:b00c:0:43fe scontent-otp1-1.cdninstagram.com
+2a03:2880:f223:c4:face:b00c:0:43fe scontent-prg1-1.cdninstagram.com
 2a03:2880:f22e:c4:face:b00c:0:43fe scontent-scl1-1.cdninstagram.com
 2a03:2880:f201:c4:face:b00c:0:43fe scontent-sea1-1.cdninstagram.com
+2a03:2880:f20c:2c4:face:b00c:0:43fe scontent-sin2-2.cdninstagram.com
 2a03:2880:f20c:c4:face:b00c:0:43fe scontent-sin6-1.cdninstagram.com
 2a03:2880:f20c:2c4:face:b00c:0:43fe scontent-sin6-2.cdninstagram.com
 2a03:2880:f226:c4:face:b00c:0:43fe scontent-sit4-1.cdninstagram.com
@@ -24620,12 +24631,6 @@
 2620:0:863:ed1a::1 ru.wikiversity.org
 2620:0:863:ed1a::1 sv.wikiversity.org
 
-<<<<<<< HEAD
-=======
-## Apple 苹果
-2001:428:4c02:48e::1aca www.apple.com #www.isg-apple.com.akadns.net
-
->>>>>>> 759ec7851db22551a20c02483f3e5f5c512fe013
 ## Blizzard Entertainment 暴雪娱乐
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
 
